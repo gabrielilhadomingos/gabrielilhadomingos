@@ -1,109 +1,82 @@
-Gabriel Domingos Ilha
-Analista e Desenvolvedor de Sistemas
+<div align="center">
+  <img src="https://media.tenor.com/8VOs48XawhIAAAAe/silverwolf-hsr.png" width="260" alt="Logo de Honkai: Star Rail">
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e criação de soluções práticas.
+  # ✦ GABRIEL DOMINGOS ILHA ✦
 
-Atualmente estou aprofundando meus conhecimentos principalmente em C#, .NET, React, TypeScript e bancos de dados, enquanto desenvolvo projetos próprios e acadêmicos para colocar esses conhecimentos em prática.
+  **Desenvolvedor • Cursando ADS**
 
-Sobre mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Foco em desenvolvimento de software
-🔧 Interesse em backend, sistemas e automação
-📚 Aprendizado contínuo através de projetos
-🌎 Inglês avançado / C2
-🛠️ Gosto de transformar ideias em projetos funcionais
-Tecnologias
-Linguagens
+  <img src="https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/11/Glitch-Typography-Featured-Image-01.jpg?w=1250&h=1120&crop=1" width="760" alt="Silver Wolf LV.999">
+</div>
 
+---
 
+## // PLAYER_PROFILE
 
+```yaml
+nome: Gabriel Domingos Ilha
+especialidade: Desenvolvimento de Software
+aprendendo: C# / .NET / React / TypeScript
+objetivo_atual: Construir soluções completas e evoluir profissionalmente como desenvolvedor
+```
 
+> `[MENSAGEM_DO_SISTEMA]` "O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva, por isso se chama presente"
 
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação, interessado em transformar ideias em soluções através da tecnologia. Atualmente, foco meus estudos em C#, .NET, React, TypeScript e bancos de dados, desenvolvendo projetos para aprimorar minhas habilidades e ganhar experiência prática.
 
+## // TECH_INVENTORY
 
-
-
-Frameworks & ferramentas
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,cs,dotnet,ts,js,tailwind&theme=dark" alt="Python, Git, GitHub, VS Code, C Sharp, .NET, TypeScript, JavaScript e Tailwind CSS">
+</div>
+<!-- Adicione ou remova tecnologias no parâmetro ?i= acima. Exemplos: js,ts,react,nodejs,html,css,docker -->
 
 
 
-Banco de dados
+## // SELECT_MISSION
 
+### 01. [Controle de Estoque](https://github.com/gabrielilhadomingos/pyth-stock)
 
+Sistema de terminal em Python para cadastrar, consultar e movimentar produtos, com persistência em JSON.
 
+`Python` `JSON` `CLI`
 
-Projetos em destaque
-Sistema de Controle de Gastos
+### 02. [GEEKMATCH](https://github.com/gabrielilhadomingos/geek-match)
 
-Sistema desenvolvido para gerenciamento de gastos residenciais.
+Projeto pessoal que eu ando desenvolvendo em relação a produtos Geek.
 
-Tecnologias: C# · .NET · React · TypeScript · SQLite
+`TypeScript` `JavaScript` `Tailwind`
 
-Principais funcionalidades:
+### 03. [Avaliação](https://github.com/gabrielilhadomingos/avalia-o-2)
 
-Cadastro de pessoas
-Cadastro de transações
-Controle de despesas
-Consulta de informações
-Persistência de dados
-Regras de negócio relacionadas à idade
-Sistema para Lava-Car
+Uma avaliação no meu tempo de escola que eu fiz em JavaScript puro
 
-Sistema de gerenciamento desenvolvido para empresas do segmento de lavagem automotiva.
+`JavaScript`
 
-Tecnologias: C# · .NET · Entity Framework Core · SQLite
+## // PLAYER_STATS
 
-O projeto trabalha com conceitos de:
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielilhadomingos&theme=tokyonight" alt="Estatísticas do GitHub de Gabriel Ilha">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielilhadomingos&theme=tokyonight" alt="Linguagens mais usadas por repositório">
+</div>
 
-Clientes
-Veículos
-Serviços
-Funcionários
-Cargos
-Status
-Empresas
-Controle de informações
-Projetos Web
+## // OPEN_CONNECTION
 
-Também desenvolvo projetos utilizando tecnologias web modernas, principalmente React, TypeScript, JavaScript e Node.js, buscando integrar interfaces funcionais com APIs e bancos de dados.
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-domingos-ilha-1b8b5b407/"><img src="https://img.shields.io/badge/LinkedIn-342d59?style=for-the-badge&logo=linkedin&logoColor=e8c575" alt="LinkedIn"></a>
+  <a href="mailto:Gabrielilha.2008@gmail.com"><img src="https://img.shields.io/badge/Email-342d59?style=for-the-badge&logo=gmail&logoColor=e8c575" alt="E-mail"></a>
+  <a href="LINK_DO_SEU_SITE_AQUI"><img src="https://img.shields.io/badge/Portfolio-342d59?style=for-the-badge&logo=firefox&logoColor=e8c575" alt="Portfólio"></a>
+</div>
 
-GitHub Analytics
+<br>
 
-<p align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielilhadomingos&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielilhadomingos&layout=compact&hide_border=true&theme=transparent" /> </p>
+<div align="center">
+  <img src="https://tr.rbxcdn.com/180DAY-dab26f3b44a177cbc397a52235273782/420/420/FaceAccessory/Webp/noFilter" height="360" alt="Silver Wolf">
+  <img src="https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/04/23/44329803/919e76de5d17426b63b7f4d1a15fbcba_6966174790893963415.png?x-oss-process=image%2Fformat%2Cwebp" height="360" alt="Silver Wolf LV.999">
+  <br>
+  <sub>[GAME NOT OVER] Obrigado pela visita. Próximo objetivo: LV.999.</sub>
+</div>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielilhadomingos&hide_border=true&theme=transparent" /> </p>
+---
 
-Atualmente estudando
-C# / .NET
-├── Programação Orientada a Objetos
-├── Entity Framework Core
-├── APIs
-└── Arquitetura de aplicações
+<sub>Portfólio inspirado visualmente em Honkai: Star Rail. Honkai: Star Rail e seus elementos pertencem à HoYoverse. Este é um projeto de fã, sem afiliação oficial.</sub>
 
-React / TypeScript
-├── Componentização
-├── Interfaces
-├── Consumo de APIs
-└── Desenvolvimento Frontend
-
-Banco de Dados
-├── SQL
-├── SQLite
-├── Modelagem
-└── Persistência de dados
-Objetivos
-
-Meu objetivo é continuar evoluindo como desenvolvedor, adquirindo experiência através de projetos reais e aprofundando meus conhecimentos em engenharia de software, backend, frontend, bancos de dados e desenvolvimento de aplicações.
-
-Contato
-
-<p align="left"> <a href="https://github.com/gabrielilhadomingos"> <img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-181818?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
-
-<p align="center"> <sub>Construindo, aprendendo e evoluindo através de código.</sub> </p>
