@@ -54,7 +54,7 @@ CONTATOS
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-domingos-ilha-1b8b5b407/"><img src="https://img.shields.io/badge/LinkedIn-342d59?style=for-the-badge&logo=linkedin&logoColor=e8c575" alt="LinkedIn"></a>
   <a href="mailto:Gabrielilha.2008@gmail.com"><img src="https://img.shields.io/badge/Email-342d59?style=for-the-badge&logo=gmail&logoColor=e8c575" alt="E-mail"></a>
-  <a href="LINK_DO_SEU_SITE_AQUI"><img src="https://img.shields.io/badge/Portfolio-342d59?style=for-the-badge&logo=firefox&logoColor=e8c575" alt="Portfólio"></a>
+  <a href="https://gabriel-ilha-portfolio-pessoal.lussandro.chatgpt.site/portfolio/port"><img src="https://img.shields.io/badge/Portfolio-342d59?style=for-the-badge&logo=firefox&logoColor=e8c575" alt="Portfólio"></a>
 </div>
 
 <br>
